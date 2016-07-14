@@ -1,3 +1,4 @@
 vpnotebook
 vpython
 ivisual
+ujson
